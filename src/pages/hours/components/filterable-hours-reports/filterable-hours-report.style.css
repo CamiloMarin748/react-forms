@@ -1,0 +1,6 @@
+.filterable-hours-report-container {
+    width: 300px;
+    min-height: 500px;
+    border: 1px solid orange;
+    margin: 0 auto;
+}

@@ -1,0 +1,10 @@
+.teachers-hours-report-container {
+    border: 2px solid red;
+    text-align: left;
+    margin-bottom: 2px;
+}
+
+.product-without-stock {
+    color: red;
+    font-weight: bold;
+}
